@@ -10,12 +10,19 @@
 </a>
 <br/>
 
-### About Me 🚀
+### 🚀 About Me 
+ 
+<hr />
+
+
 👩‍💻 I’m a **Full-stack developer** with a bachelor's degree in information technology. </br> </br>
 😎 I have over 10 years experience in software development using Java and its related frameworks as well as scripting in Angular and Node.js. </br></br>
 
+
+### :tada: Technologies I love and use 
+ 
 <hr />
-### ⚡ Technologies I love and use
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
